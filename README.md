@@ -1,2 +1,2 @@
 # One-Page-Website
- Purpose of this repository is hold the one page website assignment
+ One page website for a bakery utilizing HTML and CSS.
